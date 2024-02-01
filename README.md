@@ -1,5 +1,8 @@
 # BMI Calculator Streamlit App
 
+## The website:
+You can check the application [here](https://bmicalculation.streamlit.app/)
+
 ## Introduction
 This project is a web application built with Streamlit that calculates the Body Mass Index (BMI) to help users determine their health status based on their weight and height. It categorizes users into various weight status categories, such as underweight, normal weight, overweight, and obesity, providing a quick and easy way to monitor one's health.
 
