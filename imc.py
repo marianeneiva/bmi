@@ -2,7 +2,7 @@ import streamlit as st
 
 
 # Display an image with a caption that provides context for the BMI calculator
-st.image('/Users/marianeneiva/Documents/cludeDS/adult-body-mass-index-guide-alt-1440x810.jpg', caption='Source: https://www.everydayhealth.com/')
+st.image('adult-body-mass-index-guide-alt-1440x810.jpg', caption='Source: https://www.everydayhealth.com/')
 
 # Application title
 st.title('Body Mass Index (BMI)')
