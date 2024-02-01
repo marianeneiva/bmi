@@ -65,4 +65,8 @@ st.divider()
 
 st.header('Code:')
 
-st.write("check out the code of this page here: this [link](https://github.com/marianeneiva/bmi/)")
+st.write("Check out the code of this page [here](https://github.com/marianeneiva/bmi/)")
+
+# Divider for layout
+st.divider()
+st.write("[by Mariane Neiva, phd](https://www.linkedin.com/in/mariane-neiva/)")
