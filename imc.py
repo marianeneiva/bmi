@@ -59,3 +59,6 @@ st.markdown("- **Overweight:** BMI between 25 and 29.9")
 st.markdown("- **Obesity:** BMI 30 or above")
 st.markdown("## Limitations of BMI")
 st.markdown("While BMI is a useful general guideline, it does not directly measure body fat or account for muscle mass, bone density, overall body composition, and racial and sex differences. Therefore, it should be considered alongside other measurements and assessments for a more accurate picture of an individual's health status.")
+
+
+st.write("check out the code of this page here: this [link](https://github.com/marianeneiva/bmi/)")
