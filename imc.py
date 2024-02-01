@@ -69,4 +69,4 @@ st.write("Check out the code of this page [here](https://github.com/marianeneiva
 
 # Divider for layout
 st.divider()
-st.write("[by Mariane Neiva, phd](https://www.linkedin.com/in/mariane-neiva/)")
+st.write("[by Mariane Neiva](https://www.linkedin.com/in/mariane-neiva/)")
