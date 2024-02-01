@@ -8,7 +8,8 @@ st.image('adult-body-mass-index-guide-alt-1440x810.jpg', caption='Source: https:
 st.title('Body Mass Index (BMI)')
 
 # Description header explaining the purpose of the BMI calculation
-st.header('assess whether a person has a healthy body weight for a person of their height. \n It\'s a widely used tool to categorize individuals into various weight status categories, which can indicate potential health risks associated with underweight, normal weight, overweight, and obesity.')
+st.header('Do you have a healthy body weight?')
+st.caption('ps.: do not trust this application completely. The BMI has several limitation. Check your health with a proper specialist.')
 
 # User input for weight in kilograms
 weight = st.number_input('Insert the weight (in kgs)', value=0.0)
